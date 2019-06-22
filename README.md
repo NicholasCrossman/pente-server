@@ -1,10 +1,6 @@
-# My awesome project
+# Pente Server
 
-### Test coverage should be over 80%
-
-## Per Package:
-- Game: 80%  
-- Rules: 100%  
-- GUI: 80%  
-- Server: 100%  
-- User: 80%
+## Written in Java using:
+- the JAX-RS Web API
+- Server-Sent Events
+- the Controller pattern
